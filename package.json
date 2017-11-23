@@ -1,0 +1,12 @@
+{
+  "name": "tslint-config",
+  "version": "1.0.0",
+  "description": "Viko's tslint config",
+  "main": "tslint.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViKomprenas/tslint-config.git"
+  },
+  "author": "ViKomprenas <viko@vikomprenas.com> (https://www.vikomprenas.com/)",
+  "license": "CC0-1.0"
+}
