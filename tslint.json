@@ -14,7 +14,11 @@
         "max-classes-per-file": false,
         "member-ordering": false,
         "interface-name": false,
-        "no-namespace": false
+        "no-namespace": false,
+        "array-type": [
+            true,
+            "array"
+        ]
     },
     "rulesDirectory": []
 }
