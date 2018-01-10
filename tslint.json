@@ -18,7 +18,8 @@
         "array-type": [
             true,
             "array"
-        ]
+        ],
+        "no-console": [true, "log"]
     },
     "rulesDirectory": []
 }
